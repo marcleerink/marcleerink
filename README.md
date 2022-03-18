@@ -1,4 +1,4 @@
-### Hi, I am Marc Leerink
+## Hi, I am Marc Leerink
 
 A passionate tech and music lover from the Netherlands, living in Berlin. 
 
