@@ -1,6 +1,6 @@
 ## Hi, I am Marc Leerink
 
-A passionate tech and music lover from the Netherlands, living in Berlin. 
+### A passionate tech and music lover from the Netherlands, living in Berlin. 
 
 - I study Software engineering at [CODE University](www.code.berlin).
 - Currently looking for a working student position to complement my learning journey. 
