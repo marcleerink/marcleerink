@@ -11,9 +11,7 @@ I have a background in organizing music events and managing a music radio whilst
 My character would be best described as curious, communicative and creative. Furthermore, I possess strong analytical thinking skills and work solution-oriented with high attention to detail.
 
 
-#### 📧 Get in Touch
-GitHub: marcleerink
-
-LinkedIn: [Marc Leerink](https://www.linkedin.com/in/marc-leerink-82b83b121/)
-
-E-mail: maleerink@gmail.com
+#### Contact me
+- GitHub: marcleerink
+- LinkedIn: [Marc Leerink](https://www.linkedin.com/in/marc-leerink-82b83b121/)
+- E-mail: maleerink@gmail.com
