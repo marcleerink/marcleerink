@@ -13,5 +13,7 @@ My character would be best described as curious, communicative and creative. Fur
 
 #### 📧 Get in Touch
 GitHub: marcleerink
+
 LinkedIn: [Marc Leerink](https://www.linkedin.com/in/marc-leerink-82b83b121/)
+
 E-mail: maleerink@gmail.com
