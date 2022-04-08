@@ -4,7 +4,7 @@
 
 - I study Software engineering at [CODE University](www.code.berlin).
 - Learning objectives are in the direction of Full-stack Web Development, Responsive Design and Sound Design
-- Experience with: Python/Flask, HTML/CSS
+- Experience with: Python/Flask, JavaScript/HTML/CSS
 - Currently looking for a working student position to complement my learning journey. 
 
 I have a background in organizing music events and managing a music radio whilst producing and DJing on the side as well as advising clients in healthcare. 
