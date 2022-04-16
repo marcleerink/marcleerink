@@ -3,7 +3,7 @@
 ### A passionate tech and music lover from the Netherlands, living in Berlin. 
 
 - I study Software engineering at [CODE University](www.code.berlin).
-- Learning objectives are in the direction of Full-stack Web Development, Responsive Design and Sound Design
+- Learning objectives are in the direction of Full-stack Web Development and Sound Design
 - Experience with: Python/Flask, JavaScript/HTML/CSS
 - Currently looking for a working student position to complement my learning journey. 
 
