@@ -3,6 +3,7 @@
 ### A passionate tech and music lover from the Netherlands, living in Berlin. 
 
 - I study Software engineering at [CODE University](www.code.berlin).
+- I support clients from [Planet]([Planet](https://www.planet.com/) in using Planet's API's.
 - Learning objectives are in the direction of Full-stack Web Development and Sound Design
 - Experience with: Python/Flask, JavaScript/HTML/CSS
 
