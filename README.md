@@ -3,7 +3,7 @@
 ### A passionate tech and music lover from the Netherlands, living in Berlin. 
 
 - I study Software engineering at [CODE University](www.code.berlin).
-- I work at [Planet][Planet](https://www.planet.com/)
+- I work at [Planet](https://www.planet.com/)
 - Learning objectives are in the direction of Full-stack Web Development and Sound Design
 - Experience with: Python/Flask, JavaScript/HTML/CSS
 
